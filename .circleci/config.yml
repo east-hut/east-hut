@@ -1,1 +1,3 @@
-#say hi i am here new
+$git congig --gobal user.name"your name" #Please enter your name
+$git config --global user.email"your email"Please enter your email
+$git config -- list
